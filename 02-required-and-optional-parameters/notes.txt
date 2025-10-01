@@ -1,0 +1,12 @@
+How To Build An API
+
+1- Create Pydantic Models For Request and Response Validations
+
+Query Params:
+- Parameters you tkae in functions (Pydantic models not included)
+
+Path Parameters:
+- Parameters you take in route/url.
+
+Body Parameters:
+- Parameters you take in functions as a pydantic model

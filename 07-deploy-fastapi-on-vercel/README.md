@@ -7,9 +7,10 @@ Quick guide to deploy FastAPI apps on Vercel.
 1. Create `vercel.json` file
 2. Create `requirements.txt` file
 3. Install Vercel CLI:
-   ```bash
-   npm i -g vercel
-   ```
+
+```bash
+npm i -g vercel
+```
 
 ## Deploy
 
@@ -28,3 +29,6 @@ vercel --prod
 ```bash
 vercel
 ```
+
+**My Deployment:**  
+https://test-fastapi-snowy.vercel.app/

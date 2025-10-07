@@ -1,0 +1,10 @@
+1- Install Vercel: npm i -g vercel
+2- vercel login
+3- vercel .
+
+Deployment:
+vercel --prod 
+
+To redploy:
+vercel
+

@@ -1,6 +1,8 @@
-1- Install Vercel: npm i -g vercel
-2- vercel login
-3- vercel .
+1- Create a vercel.json file
+2- Create requirements.txt file
+3- Install Vercel: npm i -g vercel
+4- vercel login
+5- vercel .
 
 Deployment:
 vercel --prod 
